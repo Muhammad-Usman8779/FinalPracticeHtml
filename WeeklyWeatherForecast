@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Weekly Weather Forecast</title>
+</head>
+<body bgcolor="#e0f7fa">
+
+    <h2 align="center">7-Day Weather Forecast: Islamabad</h2>
+    
+    <table border="1" align="center" width="70%" cellpadding="12" cellspacing="0" bgcolor="white">
+        <tr bgcolor="#00838f">
+            <th><font color="white">Date</font></th>
+            <th><font color="white">Day</font></th>
+            <th><font color="white">Temp (°C)</font></th>
+            <th><font color="white">Condition</font></th>
+        </tr>
+        <tr align="center" bgcolor="#fff9c4">
+            <td>Feb 28</td>
+            <td>Saturday</td>
+            <td><b>28°C</b></td>
+            <td>Sunny ☀️</td>
+        </tr>
+        <tr align="center" bgcolor="#fff9c4">
+            <td>Mar 01</td>
+            <td>Sunday</td>
+            <td><b>30°C</b></td>
+            <td>Clear Skies ☀️</td>
+        </tr>
+        <tr align="center" bgcolor="#e1f5fe">
+            <td>Mar 02</td>
+            <td>Monday</td>
+            <td><b>18°C</b></td>
+            <td>Thunderstorms ⛈️</td>
+        </tr>
+        <tr align="center" bgcolor="#e1f5fe">
+            <td>Mar 03</td>
+            <td>Tuesday</td>
+            <td><b>15°C</b></td>
+            <td>Heavy Rain 🌧️</td>
+        </tr>
+    </table>
+
+</body>
+</html>
