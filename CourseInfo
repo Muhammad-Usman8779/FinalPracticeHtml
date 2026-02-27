@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CS101: Introduction to Computing</title>
+</head>
+<body leftmargin="50" rightmargin="50" topmargin="30">
+
+    <h1 align="center">University of Technology</h1>
+    <h2 align="center">CS101: Introduction to Computing</h2>
+    <hr>
+
+    <h3>Course Description</h3>
+    <p align="justify">
+        This course provides a fundamental understanding of computer systems, software development, 
+        and the impact of technology on society. Students will learn the basics of hardware, 
+        operating systems, and the internet.
+    </p>
+
+    <h3>Instructor Information</h3>
+    <dl>
+        <dt><b>Professor:</b> Dr. Alan Turing</dt>
+        <dd>Email: alan.turing@university.edu</dd>
+        <dd>Office Hours: Mon/Wed 10:00 AM - 12:00 PM</dd>
+    </dl>
+
+    <table border="1" width="100%" cellpadding="10" cellspacing="0">
+        <tr bgcolor="#dddddd">
+            <th width="20%">Week</th>
+            <th>Topic</th>
+            <th>Assignment</th>
+        </tr>
+        <tr>
+            <td align="center">1</td>
+            <td>History of Computing</td>
+            <td>Short Essay</td>
+        </tr>
+        <tr>
+            <td align="center">2</td>
+            <td>Binary & Logic Gates</td>
+            <td>Problem Set #1</td>
+        </tr>
+        <tr>
+            <td align="center">3</td>
+            <td>HTML Basics</td>
+            <td>Create a Personal Page</td>
+        </tr>
+    </table>
+
+</body>
+</html>
