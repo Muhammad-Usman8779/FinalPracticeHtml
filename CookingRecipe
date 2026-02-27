@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Grandma's Secret Pasta</title>
+</head>
+<body bgcolor="#fffaf0">
+
+    <table width="600" align="center" border="0" cellpadding="20" bgcolor="white">
+        <tr>
+            <td align="center">
+                <h1>Spaghetti Carbonara</h1>
+                <hr color="#cc0000" width="50%">
+                <img src="https://via.placeholder.com/400x250" alt="Pasta Image" border="5">
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <h3>Ingredients</h3>
+                <ul>
+                    <li>400g Spaghetti</li>
+                    <li>150g Guanciale or Pancetta</li>
+                    <li>4 Large Egg Yolks</li>
+                    <li>100g Pecorino Romano Cheese</li>
+                    <li>Black Pepper to taste</li>
+                </ul>
+                
+                <hr color="#eeeeee">
+                
+                <h3>Instructions</h3>
+                <ol>
+                    <li>Boil a large pot of salted water and cook pasta until <i>al dente</i>.</li>
+                    <li>While pasta cooks, fry the guanciale in a pan until crispy.</li>
+                    <li>Whisk eggs and cheese in a small bowl until creamy.</li>
+                    <li>Drain pasta (reserve some water) and toss with the meat.</li>
+                    <li><b>Remove from heat</b> and stir in egg mixture quickly to create a sauce.</li>
+                </ol>
+            </td>
+        </tr>
+    </table>
+
+</body>
+</html>
