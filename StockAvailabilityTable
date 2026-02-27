@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Gadget Store 2026</title>
+</head>
+<body>
+
+    <h1 align="center">Premium Tech Catalog</h1>
+    <p align="center"><i>Quality electronics at your doorstep</i></p>
+
+    <table width="90%" align="center" border="1" cellpadding="15" cellspacing="5">
+        <tr bgcolor="#333333">
+            <th colspan="3"><font color="white" size="5">Featured Products</font></th>
+        </tr>
+        <tr>
+            <td width="33%" align="center">
+                <img src="https://via.placeholder.com/150" alt="Smartphone">
+                <h3>X-Phone 15</h3>
+                <p>OLED Display, 5G Enabled, 128GB Storage.</p>
+                <font color="green"><b>Price: $799</b></font><br><br>
+                <button type="button">Add to Cart</button>
+            </td>
+
+            <td width="33%" align="center">
+                <img src="https://via.placeholder.com/150" alt="Laptop">
+                <h3>UltraBook Pro</h3>
+                <p>16GB RAM, 512GB SSD, M3 Chipset.</p>
+                <font color="green"><b>Price: $1299</b></font><br><br>
+                <button type="button">Add to Cart</button>
+            </td>
+
+            <td width="33%" align="center">
+                <img src="https://via.placeholder.com/150" alt="Headphones">
+                <h3>NoiseCancel Pro</h3>
+                <p>Active noise cancelling, 40-hour battery.</p>
+                <font color="green"><b>Price: $299</b></font><br><br>
+                <button type="button">Add to Cart</button>
+            </td>
+        </tr>
+    </table>
+
+</body>
+</html>
