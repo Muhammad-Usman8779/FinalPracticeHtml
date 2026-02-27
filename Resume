@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Resume</title>
+</head>
+<body bgcolor="#ffffff" text="#333333">
+
+    <table width="800" align="center" border="0" cellpadding="0" cellspacing="0">
+        <tr bgcolor="#2c3e50">
+            <td colspan="2" align="center" height="150">
+                <h1><font color="white" size="7">Muhammad Usman</font></h1>
+                <p><font color="#bdc3c7">Full Stack Developer</font></p>
+            </td>
+        </tr>
+        <tr>
+            <td width="30%" bgcolor="#ecf0f1" valign="top" style="padding: 20px;">
+                <h3>CONTACT</h3>
+                <p>📧 usmanii9778@gmail.com</p>
+                <p>📱 +92 3109666450</p>
+                <p>📍 Peshawar, Pakistan</p>
+                <hr color="#bdc3c7">
+                <h3>SKILLS</h3>
+                <ul>
+                    <li>HTML5 / Basics</li>
+                    <li>Problem Solving</li>
+                    <li>Team Leadership</li>
+                    <li>Communication</li>
+                </ul>
+            </td>
+            <td width="70%" valign="top" style="padding: 20px;">
+                <h3>WORK EXPERIENCE</h3>
+                <p><b>Senior Developer @ Tech-Logics</b><br>
+                <i>2022 - Present</i></p>
+                <ul>
+                    <li>Led a team of 5 developers for e-commerce projects.</li>
+                    <li>Optimized database queries by 40%.</li>
+                </ul>
+                <p><b>Junior Coder @ Web-Solutions</b><br>
+                <i>2020 - 2022</i></p>
+                <ul>
+                    <li>Assisted in building responsive landing pages.</li>
+                    <li>Maintained legacy codebases for international clients.</li>
+                </ul>
+                <hr color="#bdc3c7">
+                <h3>EDUCATION</h3>
+                <p><b>BS in Cybersecurity</b><br>
+                Imsciences Peshawar</p>
+            </td>
+        </tr>
+    </table>
+    <p align="center"><font size="2">Made By Muhammad Usman</font></p>
+</body>
+</html>
