@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Apply for Software Engineer</title>
+</head>
+<body bgcolor="#f0f2f5">
+
+    <table width="600" align="center" bgcolor="white" border="0" cellpadding="20" style="border: 1px solid #ccc;">
+        <tr>
+            <td>
+                <h2 align="center">Career Application</h2>
+                <hr>
+                <form action="#" method="post" enctype="multipart/form-data">
+                    <table width="100%" border="0" cellpadding="5">
+                        <tr>
+                            <td><b>Full Name:</b></td>
+                            <td><input type="text" name="fullname" size="30"></td>
+                        </tr>
+                        <tr>
+                            <td><b>Upload Resume:</b></td>
+                            <td><input type="file" name="resume"></td>
+                        </tr>
+                        <tr>
+                            <td valign="top"><b>Cover Letter:</b></td>
+                            <td><textarea name="cover" rows="6" cols="30" placeholder="Why should we hire you?"></textarea></td>
+                        </tr>
+                        <tr>
+                            <td><b>References:</b></td>
+                            <td><input type="text" name="ref" placeholder="Name & Contact"></td>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td>
+                                <br>
+                                <input type="checkbox" required> I agree to terms and conditions.
+                                <br><br>
+                                <input type="submit" value="Submit Application">
+                            </td>
+                        </tr>
+                    </table>
+                </form>
+            </td>
+        </tr>
+    </table>
+
+</body>
+</html>
