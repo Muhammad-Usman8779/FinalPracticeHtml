@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>PSL 2024 Standings</title>
+</head>
+<body>
+
+    <h2 align="center">Pakistan Super League (PSL) 2024 - Points Table</h2>
+
+    <table border="1" align="center" cellpadding="10" cellspacing="0" width="60%">
+        <tr bgcolor="#006400">
+            <th><font color="white">Team Name</font></th>
+            <th><font color="white">Matches</font></th>
+            <th><font color="white">Wins</font></th>
+            <th><font color="white">Losses</font></th>
+            <th><font color="white">Points</font></th>
+        </tr>
+        
+        <tr align="center" bgcolor="#eaffea">
+            <td><b>Islamabad United</b></td>
+            <td>10</td>
+            <td>7</td>
+            <td>3</td>
+            <td>14</td>
+        </tr>
+        <tr align="center">
+            <td><b>Multan Sultans</b></td>
+            <td>10</td>
+            <td>6</td>
+            <td>4</td>
+            <td>12</td>
+        </tr>
+        <tr align="center" bgcolor="#eaffea">
+            <td><b>Peshawar Zalmi</b></td>
+            <td>10</td>
+            <td>5</td>
+            <td>5</td>
+            <td>10</td>
+        </tr>
+        <tr align="center">
+            <td><b>Quetta Gladiators</b></td>
+            <td>10</td>
+            <td>2</td>
+            <td>8</td>
+            <td>4</td>
+        </tr>
+    </table>
+
+</body>
+</html>
